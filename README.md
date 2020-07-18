@@ -6,14 +6,14 @@
 
 - ホームページを暫定開設しました (2020/7/17)
 <!---
-[過去のお知らせ (Past)](https://xxx.example.com/)
+[お知らせ一覧 (list)](https://xxx.example.com/)
 -->
 
 ### 配布物 (Handout)
 
 準備中
 <!---
-[過去の配布物 (Past)](https://xxx.example.com/)
+[配布物一覧 (list)](https://xxx.example.com/)
 -->
 
 ### 私たち (About us)
@@ -26,3 +26,8 @@
 <!--
 [kamisho@example.com](mailto:kamisyo@example.com)
 -->
+### リンク (Link)
+
+- [西東京市立上向台小学校](http://www.nishitokyo.ed.jp/e-kamimukoudai/ "kamisho")
+- [西東京市](https://www.city.nishitokyo.lg.jp/ "Nishitokyo City Official Website")
+- [東京都小学校PTA協議会](https://www.ptatokyo.com/ "Tokyo PTA")
