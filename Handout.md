@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Handout"
-permalink: https://kamishopta.github.io/handout
+permalink: /handout/
+---
 
 ## 配布物 (Handout)
 
