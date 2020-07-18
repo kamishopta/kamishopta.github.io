@@ -25,4 +25,4 @@
 準備中
 <!--
 [kamisho@example.com](mailto:kamisyo@example.com)
-__>
+-->
