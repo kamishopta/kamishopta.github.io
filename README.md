@@ -1,4 +1,4 @@
-## 上向台小学校PTAページへようこそ　(Kamisho PTA Page)
+## 上向台小学校PTAページ　(Kamisho PTA Page)
 
 ### お知らせ (News)
 
@@ -10,9 +10,7 @@
 
 ### 私たち (About us)
 
-西東京市立上向台小学校PTA
-
-2020年度 PTA役員一同
+西東京市立上向台小学校PTA 2020年度PTA役員一同
 
 ### 連絡先 (Contact)
 
