@@ -4,6 +4,9 @@
 
 ### お知らせ (News)
 
+- [2020年度PTA総会委任状](https://forms.gle/v2kmwmMhLD3cBq5X7 "2020delegation")を公開しました (2020/7/24)
+- [2020年度PTA総会議案書](https://github.com/kamishopta/kamishopta.github.io/raw/master/handout/2020%E5%B9%B4%E5%BA%A6PTA%E7%B7%8F%E4%BC%9A%E8%AD%B0%E6%A1%88%E6%9B%B8.pdf)を公開しました (2020/7/24)
+- ホームページを正式公開しました (2020/7/24)
 - ホームページを暫定開設しました (2020/7/17)
 <!---
 [お知らせ一覧 (list)](https://xxx.example.com/)
@@ -11,7 +14,7 @@
 
 ### 配布物 (Handout)
 
-準備中
+- [2020年度PTA総会議案書](https://github.com/kamishopta/kamishopta.github.io/raw/master/handout/2020%E5%B9%B4%E5%BA%A6PTA%E7%B7%8F%E4%BC%9A%E8%AD%B0%E6%A1%88%E6%9B%B8.pdf)
 <!---
 [配布物一覧 (list)](https://xxx.example.com/)
 -->
@@ -20,12 +23,6 @@
 
 西東京市立上向台小学校PTA 2020年度PTA役員一同
 
-### 連絡先 (Contact)
-
-準備中
-<!--
-[kamisho@example.com](mailto:kamisyo@example.com)
--->
 ### リンク (Link)
 
 - [西東京市立上向台小学校](http://www.nishitokyo.ed.jp/e-kamimukoudai/ "kamisho")
