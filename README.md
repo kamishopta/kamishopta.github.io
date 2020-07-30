@@ -4,6 +4,7 @@
 
 ### お知らせ (News)
 
+- 2020年度PTA総会議案書の予算と決算に一部誤りがあったため、修正版を掲載しました (2020/7/31)
 - [2020年度PTA総会委任状](https://forms.gle/v2kmwmMhLD3cBq5X7 "2020delegation")を公開しました (2020/7/24)
 - [2020年度PTA総会議案書](https://github.com/kamishopta/kamishopta.github.io/raw/master/handout/2020%E5%B9%B4%E5%BA%A6PTA%E7%B7%8F%E4%BC%9A%E8%AD%B0%E6%A1%88%E6%9B%B8.pdf)を公開しました (2020/7/24)
 - ホームページを正式公開しました (2020/7/24)
