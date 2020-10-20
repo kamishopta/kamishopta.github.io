@@ -5,6 +5,7 @@
 ### お知らせ (News)
 
 - [2020年度PTA総会報告書](https://github.com/kamishopta/kamishopta.github.io/raw/master/handout/2020%E7%B7%8F%E4%BC%9A%E5%A0%B1%E5%91%8A%E6%9B%B8r1.pdf)を公開しました（2020/10/20）
+- PTA会則を公開しました（2020/10/20）
 - 2020年度PTA総会委任状のネット提出を終了しました。ご協力ありがとうございました (2020/8/4)
 - 2020年度PTA総会議案書の予算と決算に一部誤りがあったため、修正版を掲載しました (2020/7/31)
 - [2020年度PTA総会委任状](https://forms.gle/v2kmwmMhLD3cBq5X7 "2020delegation")を公開しました (2020/7/24)
@@ -21,6 +22,9 @@
 <!---
 [配布物一覧 (list)](https://xxx.example.com/)
 -->
+
+### 会則
+- [会則「みんなのPTA」](constitution)
 
 ### 私たち (About us)
 
